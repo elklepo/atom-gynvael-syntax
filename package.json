@@ -1,7 +1,11 @@
 {
   "name": "atom-gynvael-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "A dark syntax theme for Atom inspired by text editor color scheme used by Gynvael Coldwind during his streams.",
   "repository": "https://github.com/elklepo/atom-gynvael-syntax"
+  "engines":
+  {
+    "atom": ">=1.13.0 <2.0.0"
+  }
 }
